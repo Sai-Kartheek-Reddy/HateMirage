@@ -1,8 +1,8 @@
 # HateMirage: An Explainable Multi-Dimensional Dataset for Decoding Faux Hate and Subtle Online Abuse
 
-[![License: Research Only](https://img.shields.io/badge/License-Research_Only-red.svg)](https://forms.gle/WhQ6U9yU8tZG8RrZ9)
-[![Conference](https://img.shields.io/badge/LREC--COLING-2026-blue)](https://lrec-coling-2026.org/)
-[![Project Status](https://img.shields.io/badge/Status-Active-success)]()
+[![License: Research Only](https://github.com/Sai-Kartheek-Reddy/HateMirage/)
+[![Conference](https://github.com/Sai-Kartheek-Reddy/HateMirage/)
+[![Project Status](https://github.com/Sai-Kartheek-Reddy/HateMirage/)]()
 
 **Official repository for the paper: "HateMirage: An Explainable Multi-Dimensional Dataset for Decoding Faux Hate and Subtle Online Abuse" (LREC 2026).**
 

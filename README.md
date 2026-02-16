@@ -71,8 +71,6 @@ This repository supports reproducing the paper's experiments. We evaluate models
 * **Zero-Shot:** The model generates explanations based solely on the comment.
 * **RAG-Based:** The model is provided with retrieved fact-checking context to ground its reasoning.
 
-*(Detailed instructions on running the evaluation scripts will be added upon code release.)*
-
 ---
 
 ## 🔐 Data Access & Ethics

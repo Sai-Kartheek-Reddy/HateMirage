@@ -48,13 +48,12 @@ HateMirage moves beyond token-level highlighting. It decomposes "Faux Hate" into
 ```text
 HateMirage/
 ├── code/
-│   ├── zero_shot/          # Scripts for Zero-Shot explanation generation
-│   ├── rag/                # Scripts for RAG-based explanation generation
-│   └── evaluation/         # Metrics (ROUGE-L, SBERT Similarity)
-│
-├── prompts/                # Prompt templates used for annotation and benchmarking
+│   ├── zero_shot.py          # Script for Zero-Shot explanation generation, including evaluation Metrics (ROUGE-L, SBERT Similarity)
+│   └── rag.py                # Script for RAG-based explanation generation, including evaluation Metrics (ROUGE-L, SBERT Similarity)
 │
 ├── source_docs/            # Reference materials for RAG (fact-checked claims)
+│
+├── requirements.txt
 │
 └── README.md
 ```

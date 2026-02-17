@@ -50,6 +50,7 @@ HateMirage/
 ├── Annotation Guidelines/
 │   ├── Hate Mirage Data Annotation Guidelines (Rating).pdf
 │   └── HateMirage Data Annotation Guidelines.pdf
+|
 ├── code/
 │   ├── Code-README.md
 │   ├── zero_shot.py          # Script for Zero-Shot explanation generation, including evaluation Metrics (ROUGE-L, SBERT Similarity)

@@ -10,7 +10,7 @@
 
 ## 📖 Overview
 
-**HateMirage** is a novel benchmark dataset designed to advance research into **Faux Hate**—a sophisticated form of online abuse where hostile narratives are constructed or amplified through misinformation rather than explicit toxicity.
+**HateMirage** is a novel benchmark dataset designed to advance research into **Faux Hate** a sophisticated form of online abuse where hostile narratives are constructed or amplified through misinformation rather than explicit toxicity.
 
 Unlike traditional hate speech datasets that focus on overt slurs, HateMirage captures implicit, context-dependent harm. It bridges the gap between **misinformation** and **hate speech** by providing structured, multi-dimensional explanations for *why* a comment is harmful.
 

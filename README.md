@@ -52,7 +52,7 @@ HateMirage/
 │   └── HateMirage Data Annotation Guidelines.pdf
 |
 ├── code/
-│   ├── Code-README.md
+│   ├── README.md             # Prompt Template details, RAG setup
 │   ├── zero_shot.py          # Script for Zero-Shot explanation generation, including evaluation Metrics (ROUGE-L, SBERT Similarity)
 │   └── rag.py                # Script for RAG-based explanation generation, including evaluation Metrics (ROUGE-L, SBERT Similarity)
 │

@@ -56,7 +56,9 @@ HateMirage/
 │   ├── zero_shot.py          # Script for Zero-Shot explanation generation, including evaluation Metrics (ROUGE-L, SBERT Similarity)
 │   └── rag.py                # Script for RAG-based explanation generation, including evaluation Metrics (ROUGE-L, SBERT Similarity)
 │
-├── source_docs/            # Reference materials for RAG (fact-checked claims)
+├── source_docs/            
+│   ├── RAG_Reference_Data.jsonl  # Reference material for RAG (fact-checked source)           
+│   └── fake_claims.txt           # List of Fake Claims supporting this research
 │
 ├── requirements.txt
 │

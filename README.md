@@ -6,6 +6,8 @@
 
 **Official repository for the paper: "HateMirage: An Explainable Multi-Dimensional Dataset for Decoding Faux Hate and Subtle Online Abuse" (LREC 2026).**
 
+[Preprint available here](https://arxiv.org/pdf/2603.02684)
+
 ---
 
 ## 📖 Overview

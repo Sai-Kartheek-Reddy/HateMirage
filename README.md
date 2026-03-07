@@ -103,5 +103,10 @@ To request access, please fill out the data usage agreement form below. Requests
 If you find the HateMirage dataset helpful for your research, please consider citing our paper:
 
 ```bibtex
-soon
+@article{kasu2026hatemirage,
+  title={HateMirage: An Explainable Multi-Dimensional Dataset for Decoding Faux Hate and Subtle Online Abuse},
+  author={Kasu, Sai Kartheek Reddy and Biradar, Shankar and Saumya, Sunil and Akhtar, Md Shad},
+  journal={arXiv preprint arXiv:2603.02684},
+  year={2026}
+}
 ```

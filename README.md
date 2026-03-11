@@ -100,7 +100,7 @@ To request access, please fill out the data usage agreement form below. Requests
 
 ## 📜 Citation
 
-If you find the HateMirage dataset helpful for your research, please consider citing our paper:
+If you find this work useful in your research, please consider citing our paper.
 
 ```bibtex
 @article{kasu2026hatemirage,
